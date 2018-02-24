@@ -1,0 +1,7 @@
+{
+  "name": "myenv-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ori Calvo",
+  "license": "MIT"
+}
